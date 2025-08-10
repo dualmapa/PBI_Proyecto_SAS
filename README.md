@@ -38,7 +38,7 @@ Dashboard interactivo desarrollado en Power BI para analizar patrones de pedidos
 - **Modelado de datos**: Esquema estrella optimizado
 
 ## 📊 Modelo de Datos
-El proyecto utiliza un modelo estrella con las siguientes tablas:
+El proyecto utiliza un modelo estrella con las siguientes tablas, y son datos que han sido modificados por temas de privacidad y seguridad:
 - `BD_Pedidos` (Tabla de hechos)
 - `M_Productos` (Dimensión de productos)
 - `M_Distribuidores` (Dimensión de distribuidores)
